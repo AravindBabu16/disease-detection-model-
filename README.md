@@ -1,2 +1,1 @@
-# disease-detection-model-
-used to detect the rice crop disease 
+https://colab.research.google.com/drive/1A3wl6Aagwzt6_GmJaM7ws7LBTTnFHl1y?usp=sharing
